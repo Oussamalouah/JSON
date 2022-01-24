@@ -1,0 +1,89 @@
+[{
+        "Id":2000,
+        "Désignation":"Antibiotiques",
+        "prix":"50 dh",
+        "catégorie":"liquide",
+       "disponibilité":["Maroc"]
+       
+}
+,{
+    "Id":1960,
+    "Désignation":"Dolipran",
+    "prix":"20 dh",
+    "catégorie":"comprimés",
+   "disponibilité":["Maroc"]
+   
+},
+{
+    "Id":"N05AX12",
+    "Désignation":"FADOF 10 MG",
+    "prix":"359.00 dhs",
+    "catégorie":"capsules",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":"F09RX1",
+    "Désignation":"RESTORGEL",
+    "prix":"118.00 dhs",
+    "catégorie":"GEL",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":2005,
+    "Désignation":"SIMILAC GOLD",
+    "prix":"75.00 dhs",
+    "catégorie":"poudre",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":2000,
+    "Désignation":"EFFERALGAN",
+    "prix":"100 dh",
+    "catégorie":"comprimés",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":2000,
+    "Désignation":"Antibiotiques",
+    "prix":"50 dh",
+    "catégorie":"liquide",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":2000,
+    "Désignation":"Antibiotiques",
+    "prix":"50 dh",
+    "catégorie":"liquide",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":2000,
+    "Désignation":"Antibiotiques",
+    "prix":"50 dh",
+    "catégorie":"liquide",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+,{
+    "Id":2000,
+    "Désignation":"Antibiotiques",
+    "prix":"50 dh",
+    "catégorie":"liquide",
+   "disponibilité":["tanger","rabat","casablanca","fes","agadir"]
+   
+}
+
+
+
+
+
+
+
+]
+
